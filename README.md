@@ -3,7 +3,7 @@
 - [Sobre](#-Sobre)
 - [Preview](#-Preview)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Como executar o projeto](##-Como-executar-o-projeto)
 
 ---
 
