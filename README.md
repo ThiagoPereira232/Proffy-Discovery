@@ -1,4 +1,4 @@
-## Índece
+## Índice
 
 - [Sobre](#-Sobre)
 - [Preview](#-Preview)
