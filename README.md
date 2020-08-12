@@ -1,11 +1,3 @@
-<p align="center>
-    <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150">
-</p>
-
-<div align="center>
-    [![GitHub license](https://img.shields.io/github/license/ThiagoPereira232/Proffy-Discovery)](https://github.com/ThiagoPereira232/proffy-discovery/blob/master/LICENSE)
-</div>
-
 ## Índece
 
 - [Sobre](#-Sobre)
