@@ -16,14 +16,6 @@
 
  ---
 
- ## :desktop_computer:	 Preview
-
-<p align="center">
-    <img src="https://ik.imagekit.io/pereira/2_t9RJG9xlV_.jpg">
-</p>
-
----
-
 ## :cd: Tecnologias utilizadas
 
 A plataforma Proffy utiliza as tecnologias:
