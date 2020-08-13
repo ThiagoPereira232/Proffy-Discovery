@@ -1,6 +1,6 @@
 # Proffy Discovery
 
-## Índice
+## :clipboard: Índice
 
 - [Sobre](#sobre)
 - [Preview](#preview)
@@ -10,13 +10,13 @@
 
 ---
 
-## Sobre
+## :computer: Sobre
 
  A plataforma Proffy é um projeto desenvolvido durante a Segunda Edição da Next Level Week, realizada pela **[Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
 
  ---
 
- ## Preview
+ ## :desktop_computer:	 Preview
 
 <p align="center">
     <img src="">
@@ -24,7 +24,7 @@
 
 ---
 
-## Tecnologias utilizadas
+## :cd: Tecnologias utilizadas
 
 A plataforma Proffy utiliza as tecnologias:
 
@@ -47,7 +47,7 @@ Fiz os desafios da última aula:
 
 ---
 
-## Como execultar o projeto
+## :floppy_disk: Como execultar o projeto
 
 ```
 # Clonar o repositório
