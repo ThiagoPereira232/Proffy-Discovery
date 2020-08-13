@@ -2,9 +2,9 @@
 
 ## :clipboard: Índice
 
-- [Sobre](#sobre)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Como executar o projeto](#como-execultar-o-projeto)
+- [Sobre](#computer-sobre)
+- [Tecnologias utilizadas](#cd-tecnologias-utilizadas)
+- [Como executar o projeto](#floppy_disk-como-execultar-o-projeto)
 
 ---
 
