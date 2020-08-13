@@ -19,7 +19,7 @@
  ## :desktop_computer:	 Preview
 
 <p align="center">
-    <img src="">
+    <img src="https://ik.imagekit.io/pereira/2_t9RJG9xlV_.jpg">
 </p>
 
 ---
