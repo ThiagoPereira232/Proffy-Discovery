@@ -29,14 +29,6 @@ A plataforma Proffy utiliza as tecnologias:
 
 ---
 
-## :rocket:	Minhas modificações
-
-Fiz os desafios da última aula:
-
-- Tela de cadastro concluído.
-
----
-
 ## :floppy_disk: Como execultar o projeto
 
 ```
