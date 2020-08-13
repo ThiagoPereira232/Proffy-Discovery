@@ -49,3 +49,12 @@ label small {
     padding-left: 1.2rem;
     color: var(--color-small-info)
 }
+
+.option {
+    width: 608px;
+    height: 56px;
+    left: 0px;
+    top: 187px;
+    background: #F8F8FC;
+    border-radius: 0px;
+}

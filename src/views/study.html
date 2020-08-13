@@ -32,7 +32,7 @@
                 <form id="search-teachers">
                     <div class="select-block">
                         <label for="subject">Matéria</label>
-                        <select name="subject" id="subject">
+                        <select name="subject" id="subject" class="option">
                             <option value="" disabled="" hidden="">Selecione uma opção</option>
 
                             {% for subject in subjects %}
@@ -44,7 +44,7 @@
                     </div>
                     <div class="select-block">
                         <label for="weekday">Dia da semana</label>
-                        <select name="weekday" id="weekday">
+                        <select name="weekday" id="weekday" class="option">
                             <option value="" disabled="" hidden="">Selecione uma opção</option>
                             {% for weekday in weekdays %}
                                 <option value="{{ loop.index0 }}" {{ "selected" if filters.weekday == loop.index0 }}>

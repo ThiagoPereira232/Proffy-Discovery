@@ -62,7 +62,7 @@
                     <legend>Sobre a aula</legend>
                     <div class="select-block">
                         <label for="subject">Matéria</label>
-                        <select name="subject" id="subject" required>
+                        <select name="subject" id="subject" class="option" required>
                             <option value="">Selecione uma opção</option>
                             {% for subject in subjects %}
                                 <option value="{{ loop.index }}">
@@ -88,7 +88,7 @@
                     <div class="schedule-item">
                         <div class="select-block">
                             <label for="weekday">Dia da semana</label>
-                            <select name="weekday[]"  required>
+                            <select name="weekday[]" class="option" required>
                                 <option value="">Selecione uma opção</option>
                                 {% for weekday in weekdays %}
                                     <option value="{{ loop.index0 }}">

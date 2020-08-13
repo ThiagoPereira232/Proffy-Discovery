@@ -33,9 +33,7 @@ A plataforma Proffy utiliza as tecnologias:
 
 Fiz os desafios da última aula:
 
-- Adicar batão de remover dia da semana.
 - Tela de cadastro concluído.
-- Adicionar CSS em Selects das páginas study e give-classes.
 
 ---
 
