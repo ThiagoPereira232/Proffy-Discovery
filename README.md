@@ -37,7 +37,7 @@ A plataforma Proffy utiliza as tecnologias:
 
 ---
 
-## Minhas modificações
+:rocket:	## Minhas modificações
 
 Fiz os desafios da última aula:
 
