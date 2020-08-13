@@ -51,6 +51,8 @@ npm run dev
 
 ```
 
+Depois disso abra seu navegador preferido e entre na url "http://localhost:5500"
+
 ---
 
 Desenvolvido por Thiago Pereira
