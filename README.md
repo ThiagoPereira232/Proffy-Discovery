@@ -3,9 +3,7 @@
 ## :clipboard: Índice
 
 - [Sobre](#sobre)
-- [Preview](#preview)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Minhas modificações](#minhas-modificações)
 - [Como executar o projeto](#como-execultar-o-projeto)
 
 ---
