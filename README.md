@@ -3,6 +3,7 @@
 - [Sobre](#-Sobre)
 - [Preview](#-Preview)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+- [Minhas modificações](#-Minhas-modificações)
 - [Como executar o projeto](#-Como-executar-o-projeto)
 
 ---
@@ -31,6 +32,16 @@ A plataforma Proffy utiliza as tecnologias:
 - Node.js
 - Nunjucks
 - SQLite
+
+---
+
+## Minhas modificações
+
+Fiz os desafios da última aula:
+
+- Adicar batão de remover dia da semana.
+- Tela de cadastro concluído.
+- Adicionar CSS em Selects das páginas study e give-classes.
 
 ---
 
