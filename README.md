@@ -1,10 +1,12 @@
+# Proffy Discovery
+
 ## Índice
 
-- [Sobre](#-Sobre)
-- [Preview](#-Preview)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Minhas modificações](#-Minhas-modificações)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Sobre](#-sobre)
+- [Preview](#-preview)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Minhas modificações](#-minhas-modificações)
+- [Como executar o projeto](#-como-executar-o-projeto)
 
 ---
 
