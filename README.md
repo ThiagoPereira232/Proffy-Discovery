@@ -1,6 +1,6 @@
 <h3 align="center">
     <img alt="Logo" width="300px" src=".github/logo.png">
-    <br><br>
+    <br>
     <b>Proffy! Ajudando pessoas a estudar!</b>
 </h3>
 
