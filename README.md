@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" width="300px" src=".github/logo.png">
+    <img alt="Logo" width="300px" src=".github/logo.svg">
     <br><br>
     <b>Proffy! Ajudando pessoas a estudar!</b>
 </h3>
