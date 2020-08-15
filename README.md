@@ -1,4 +1,17 @@
-# Proffy Discovery
+<h3 align="center">
+    <img alt="Logo" width="300px" src=".github/logo.png">
+    <br><br>
+    <b>Proffy! Ajudando pessoas a estudar!</b>
+</h3>
+
+<p align="center">
+    <a href="https://rocketseat.com.br" target="_blank">
+        <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+    </a>
+    <a href="https://github.com/ThiagoPereira232/Proffy-Discovery/blob/master/LICENSE">
+        <img alt="License" src="https://ik.imagekit.io/pereira/ecoleta_FV3ArfUHA.svg">
+    </a>
+</p>
 
 ## :clipboard: Índice
 
