@@ -17,7 +17,7 @@
 
 - [Sobre](#sobre)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Como executar o projeto](#como-execultar-o-projeto)
+- [Como executar o projeto](#como-executar-o-projeto)
 - [Como Contribuir](#contribuir)
 - [Quem Administrou?](#administrou)
 
@@ -48,9 +48,9 @@ A plataforma Proffy utiliza as tecnologias:
 
 ---
 
-<a id="como-execultar-o-projeto">
+<a id="como-executar-o-projeto">
 
-# :floppy_disk: Como execultar o projeto
+# :floppy_disk: Como executar o projeto
 
 ```bash
     # Clonar o repositório
@@ -62,7 +62,7 @@ A plataforma Proffy utiliza as tecnologias:
     # Baixar as dependências
     npm i
 
-    # Execultar o server
+    # Executar o server
     npm run dev
 ```
 
