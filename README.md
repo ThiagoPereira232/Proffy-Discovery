@@ -62,7 +62,7 @@ A plataforma Proffy utiliza as tecnologias:
     # Baixar as dependências
     npm i
 
-    # Execultar o server
+    # Executar o server
     npm run dev
 ```
 
